@@ -24,7 +24,7 @@ A simple contact book application written in Python.
 ## Usage
 
 1.  Run the application and select an option from the menu.
-2.  Follow the prompts to create, view, update, delete, search, or count contacts.
+2.  Follow the prompts to create, view, update, delete, search, or count contacts. 
 
 ## Contributing
 
